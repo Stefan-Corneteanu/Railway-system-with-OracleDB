@@ -1,0 +1,5 @@
+Railway system with Oracle database
+
+A system designed to facilitate the traveller's process of buying train tickets, to track the train and wagon maintenance with the goal of computing the total passenger capacity of the railway network, to check the maintenance of the tracks with the goal of finding alternate routes if needed, to observe the existing routes a traveller can take, and to keep a record of the companies benefiting from the railway infrastructure, including their staff and their occupations. This project deals solely with the database part, as it is a college project oriented around SQL code.
+
+To run the code and obtain the database, run the Railway System full code file inside an environment supporting OracleDB SQL code (I used Oracle APEX). SQL files with parts of the code have been added such that if the user desires different data, they can modify it easily. The Entity-Relation Diagram (ERD) has been included in the project for a better understanding of the tables inside the database and the relations between them.
